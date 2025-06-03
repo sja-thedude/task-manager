@@ -5,6 +5,12 @@ Allows users to create, edit, delete, and view tasks.
 
 ---
 
+# Demo
+
+![](Demo.gif)
+
+---
+
 ## Features
 
 - List all tasks

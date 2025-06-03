@@ -1,4 +1,3 @@
-````markdown
 # Laravel Task Manager
 
 A simple Task Manager web application built with Laravel.  
@@ -34,7 +33,7 @@ Allows users to create, edit, delete, and view tasks.
    ```bash
    git clone https://github.com/your-username/laravel-task-manager.git
    cd laravel-task-manager
-````
+  ```
 
 2. **Install PHP dependencies:**
 
@@ -132,12 +131,8 @@ This project is open-source and free to use.
 
 Created by \[SJA] - feel free to reach out!
 
-```
-
 ---
 
 ## [More about Laravel](laravelinfo.md)
-
-```
 
 ---
